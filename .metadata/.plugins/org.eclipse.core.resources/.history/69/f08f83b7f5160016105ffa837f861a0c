@@ -4,19 +4,19 @@ public class transmit implements RC4Definition {
 
 	}
 
-	public void SInitialize() {
-
+	public void SInitialize(){
+		
 	}
 
-	public void KSA() {
-
+	public void KSA(){
+		
 	}
 
-	public void PRGA() {
-
+	public void PRGA(){
+		
 	}
 
-	public void PrintResult() {
-
+	public void PrintResult(){
+		
 	}
 }

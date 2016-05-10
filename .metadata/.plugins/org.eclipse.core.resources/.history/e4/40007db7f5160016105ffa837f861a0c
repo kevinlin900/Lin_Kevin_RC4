@@ -1,5 +1,9 @@
 
-public interface RC4Definition {
+public class transmit implements RC4Definition {
+	public static void main(String[] args) {
+
+	}
+
 	public void SInitialize();
 
 	public void KSA();
